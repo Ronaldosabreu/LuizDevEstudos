@@ -1,0 +1,16 @@
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\bin\Debug\net5.0\PilaresPOO.exe
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\bin\Debug\net5.0\PilaresPOO.deps.json
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\bin\Debug\net5.0\PilaresPOO.runtimeconfig.json
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\bin\Debug\net5.0\PilaresPOO.runtimeconfig.dev.json
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\bin\Debug\net5.0\PilaresPOO.dll
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\bin\Debug\net5.0\ref\PilaresPOO.dll
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\bin\Debug\net5.0\PilaresPOO.pdb
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\obj\Debug\net5.0\PilaresPOO.csproj.AssemblyReference.cache
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\obj\Debug\net5.0\PilaresPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\obj\Debug\net5.0\PilaresPOO.AssemblyInfoInputs.cache
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\obj\Debug\net5.0\PilaresPOO.AssemblyInfo.cs
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\obj\Debug\net5.0\PilaresPOO.csproj.CoreCompileInputs.cache
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\obj\Debug\net5.0\PilaresPOO.dll
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\obj\Debug\net5.0\ref\PilaresPOO.dll
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\obj\Debug\net5.0\PilaresPOO.pdb
+C:\Users\ronaldo.abreu\Desktop\Area de Trabalho 2021\Ronaldo_Estudos\Felipe Dev\POO\PilaresPOO\PilaresPOO\obj\Debug\net5.0\PilaresPOO.genruntimeconfig.cache
